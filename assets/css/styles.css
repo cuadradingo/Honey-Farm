@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+body{
+    overflow-x: hidden;
+}
+#Navbar{
+    margin-top: -50px;
+    background-color: rgba(255, 255, 255, 0.5) !important;
+    font-size: 20pt;
+    font-weight: 500;
+}
+#Overlay{
+    background-image: url(https://images.unsplash.com/photo-1586106901017-b2d588f9c458?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    height: 100vh;
+    background-size: cover;
+}
+#Titulos{
+    font-family: 'Rubik', sans-serif;
+    margin-top: 30vh;
+    color: aliceblue !important;
+}
+#Titulos h1{
+    font-size: 80px;
+    font-weight: 400;
+}
+#Btn_Contactos button{
+    background-color: black !important;
+    color: aliceblue !important;
+
+}
+
+#Informacion{
+    padding: 5vh;
+    padding-right: 2%;
+}
+
+#Cartas{
+    padding-bottom: 2%;
+}
+
+.carousel-item img{
+    height: 60vh;
+}
+footer{
+    padding: 2%;
+    background-color: #291b11;
+    font-size: 15pt;
+    font-weight: 600;
+}
+footer span{
+    color: aliceblue;
+    font-size: 25px;
+}
+footer ul{
+    margin-left: 30%;
+}

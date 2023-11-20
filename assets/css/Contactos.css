@@ -1,0 +1,13 @@
+#Overlay{
+    background-image: url(../img/solitude.jpg);
+    height: 90vh;
+    background-size: cover;
+}
+#Formulario{
+    margin-top: 3%;
+    padding: 2%;
+    font-family: 'Rubik', sans-serif;
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    color: rgb(0, 0, 0) !important;
+}
